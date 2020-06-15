@@ -1,0 +1,4 @@
+chromedriver==2.24.1
+python-dotenv==0.13.0
+selenium==3.141.0
+urllib3==1.25.9
